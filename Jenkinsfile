@@ -2,8 +2,8 @@ pipeline {
     agent any
     
     environment {
-        SRN = 'PES1UG22CS237'
-        REPO_URL = 'https://github.com/arjuuuuunnnnn/PES1UG22CS237_Jenkins.git'
+        SRN = 'PES1UG22CS199'
+        REPO_URL = 'https://github.com/DruvaSKumar/PES1UG22CS199_Jenkins.git'
     }
     
     stages {
